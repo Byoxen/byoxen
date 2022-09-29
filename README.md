@@ -1,4 +1,4 @@
-### Hi there 👋
+### Over here, stranger 👋
 
 - A person who loves study!
 - A lot of knowning in Python.
